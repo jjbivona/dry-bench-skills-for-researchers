@@ -29,6 +29,6 @@
 
 - GitHub Hello World: https://guides.github.com/activities/hello-world/
 - Very Happy Git and GitHub for the useR by Jenny Bryan: https://happygitwithr.com/
-
+- 10 resources to boost your Git skills https://opensource.com/article/19/12/git-resources
 
 - Test fetching information from the remote upstream
